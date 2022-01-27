@@ -1,24 +1,22 @@
 [ 
     {
-        "client1": {
-            "name" :  "Diego",
-            "completed tasks": 3,
-            "incomplete tasks": 5
-        },
-        "client2": {
-            "name": "Juan",
-            "completed tasks": 5,
-            "incomplete tasks": 2
-        },
-        "client3": {
-            "name": "Carlos",
-            "completed tasks": 1,
-            "incomplete tasks": 6
-        },
-        "client4": {
-            "name": "Luis",
-            "completed tasks": 10,
-            "incomplete tasks": 0
-        }
+        "name" :  "Diego",
+        "completed tasks": 3,
+        "incomplete tasks": 5
+    },
+    {
+        "name": "Juan",
+        "completed tasks": 5,
+        "incomplete tasks": 2
+    },
+    {
+        "name": "Carlos",
+        "completed tasks": 1,
+        "incomplete tasks": 6
+    },
+    {
+        "name": "Luis",
+        "completed tasks": 10,
+        "incomplete tasks": 0
     }
 ]
