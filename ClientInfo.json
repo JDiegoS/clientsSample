@@ -1,22 +1,22 @@
 [ 
     {
         "name" :  "Diego",
-        "completed tasks": 3,
-        "incomplete tasks": 5
+        "completedTasks": 3,
+        "incompleteTasks": 5
     },
     {
         "name": "Juan",
-        "completed tasks": 5,
-        "incomplete tasks": 2
+        "completedTasks": 5,
+        "incompleteTasks": 2
     },
     {
         "name": "Carlos",
-        "completed tasks": 1,
-        "incomplete tasks": 6
+        "completedTasks": 1,
+        "incompleteTasks": 6
     },
     {
         "name": "Luis",
-        "completed tasks": 10,
-        "incomplete tasks": 0
+        "completedTasks": 10,
+        "incompleteTasks": 0
     }
 ]
