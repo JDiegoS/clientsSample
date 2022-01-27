@@ -1,0 +1,18 @@
+{
+    "client1": {
+        "completed tasks": 3,
+        "incomplete tasks": 5
+    },
+    "client2": {
+        "completed tasks": 5,
+        "incomplete tasks": 2
+    },
+    "client3": {
+        "completed tasks": 1,
+        "incomplete tasks": 6
+    },
+    "client4": {
+        "completed tasks": 10,
+        "incomplete tasks": 0
+    }
+}
